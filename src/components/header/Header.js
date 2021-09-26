@@ -72,6 +72,14 @@ function Header() {
           <li>
             <a href="#contact">Contact Me</a>
           </li>
+          <li>
+            <div>
+            <a href="https://blog.thatdevsherry.pk" target="_blank" rel="noopener noreferrer">
+              <b>Blog</b>
+              <i class="fas fa-external-link-alt" style={{paddingLeft: "0.5rem"}}></i>
+            </a>
+            </div>
+          </li>
           {/* <li> */}
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             {/* <a>
