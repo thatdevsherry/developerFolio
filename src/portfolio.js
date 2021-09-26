@@ -23,7 +23,7 @@ const greeting = {
   username: "thatdevsherry",
   title: "Hey, I'm Shehriyar Qureshi (aka thatdevsherry)",
   subTitle: emoji(
-    "A passionate Full Stack Software Engineer (Self-Taught) 🚀 having experienced in building applications ranging from mapping app frontends to network analysis software with sockets."
+    "I create digital content, documenting my journey to inspire and help developers learn from my experience."
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -161,14 +161,14 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: false, //Set it to true to show workExperiences Section
+  display: true, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Software Engineer",
       company: "Breu Inc",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      color: "rgb(0,0,0)",
       date: "April 2020 – Present",
-      desc: "",
+      desc: "Developed networking analysis tool and implemented scrum",
       descBullets: [
         "Used Rust systems language to architect an async networking analysis program",
         "Implemented Scrum methodology for better team productivity and health",
@@ -178,9 +178,9 @@ const workExperiences = {
     {
       role: "Full-Stack Software Engineer",
       company: "TPLMaps",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      color: "rgb(32,129,67)",
       date: "April 2019 – Jan 2020",
-      desc: "",
+      desc: "Developed RESTful APIs and Frontend of mapping application",
       descBullets: [
         "Discovered, analyzed and fixed major memory leaks in the Front-End of one project",
         "Discovered and patched security vulnerabilities on client side",
