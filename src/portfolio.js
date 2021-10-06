@@ -165,10 +165,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Senior Software Architect",
+      company: "Taleemabad - Project by Orenda",
+      color: "rgb(48,239,129)",
+      date: "October 2021 – Present",
+      desc: "",
+      descBullets: []
+    },
+    {
       role: "Software Engineer",
       company: "Breu Inc",
       color: "rgb(0,0,0)",
-      date: "April 2020 – Present",
+      date: "April 2020 – October 2021",
       desc: "Developed networking analysis tool and implemented scrum",
       descBullets: [
         "Used Rust systems language to architect an async networking analysis program",
