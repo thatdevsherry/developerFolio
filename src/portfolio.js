@@ -165,13 +165,20 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Stack Software Engineer",
+      company: "CreditPer",
+      color: "rgb(27,196,132)",
+      date: "April 2022 – Present",
+      desc: "",
+      descBullets: []
+    },
+    {
       role: "Full-Stack Software Engineer",
       company: "Turing Technologies",
       color: "rgb(1,68,228)",
-      date: "January 2022 – Present",
+      date: "January 2022 – April 2022",
       desc: "",
-      descBullets: [
-      ]
+      descBullets: []
     },
     {
       role: "Senior Software Architect",
