@@ -50,9 +50,7 @@ const skillsSection = {
   title: "What I do",
   subTitle: "I love tech and try to learn all about it",
   skills: [
-    emoji("⚡ Develop highly interactive Frontends"),
-    emoji("⚡ Dabble in networking with Rust"),
-    emoji("⚡ Learning to lead a development team")
+    emoji("⚡ Blogging (Personal, Software Engineering, Islam, and Pakistan)")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -70,6 +68,14 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Java",
       fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "JavaScript",
+      fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "Node",
+      fontAwesomeClassname: "fab fa-node"
     },
     {
       skillName: "Angular",
@@ -178,7 +184,10 @@ const workExperiences = {
       color: "rgb(1,68,228)",
       date: "January 2022 – April 2022",
       desc: "",
-      descBullets: []
+      descBullets: [
+        "Developed GraphQL APIs in NestJS w/ MongoDB",
+        "Automated the deployment using Gitlab CI + Terraform & Packer"
+      ]
     },
     {
       role: "Senior Software Architect",
