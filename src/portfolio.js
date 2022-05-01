@@ -26,7 +26,7 @@ const greeting = {
     "I create digital content, documenting my journey to inspire and help developers learn from my experience."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1mfbeSQCFd193GHAi1AYuVQ1QgrCddMAv/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1nUSheWjNT0nB1G29qWr6rFYbaftXOBFM/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
