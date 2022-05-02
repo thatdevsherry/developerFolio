@@ -169,7 +169,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Stack Software Engineer",
+      role: "Software Engineer",
       company: "CreditPer",
       color: "rgb(27,196,132)",
       date: "April 2022 – Present",
