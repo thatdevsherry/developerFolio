@@ -22,8 +22,9 @@ const illustration = {
 const greeting = {
   username: "Muhammad Shehriyar Qureshi",
   title: "السلام عليكم ورحمته الله وبركاته",
-  subTitle:
-    "I create digital content, documenting my journey to inspire and help developers learn from my experience.",
+  subTitle: `I create digital content, 
+    documenting my journey about being a Software Engineer in Pakistan 
+    without a formal degree.`,
   resumeLink:
     "https://drive.google.com/file/d/1nUSheWjNT0nB1G29qWr6rFYbaftXOBFM/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -47,10 +48,8 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "I love tech and try to learn all about it",
-  skills: [
-    emoji("⚡ Blogging (Personal, Software Engineering, Islam, and Pakistan)")
-  ],
+  subTitle: "I dabble in a variety of technologies and languages",
+  skills: [],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
