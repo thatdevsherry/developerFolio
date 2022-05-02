@@ -16,12 +16,12 @@ const splashScreen = {
 // Summary And Greeting Section
 
 const illustration = {
-  animated: true // Set to false to use static SVG
+  animated: false // Set to false to use static SVG
 };
 
 const greeting = {
-  username: "thatdevsherry",
-  title: "Hey, I'm Shehriyar Qureshi (aka thatdevsherry)",
+  username: "Muhammad Shehriyar Qureshi",
+  title: "السلام عليكم ورحمته الله وبركاته",
   subTitle: emoji(
     "I create digital content, documenting my journey to inspire and help developers learn from my experience."
   ),
@@ -374,7 +374,7 @@ const talkSection = {
 
 const podcastSection = {
   title: emoji("Podcast 🎙️"),
-  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
+  subtitle: "",
 
   // Please Provide with Your Podcast embeded Link
   podcast: ["https://anchor.fm/thatdevsherry/embed"],
