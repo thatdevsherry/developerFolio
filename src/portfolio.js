@@ -22,9 +22,8 @@ const illustration = {
 const greeting = {
   username: "Muhammad Shehriyar Qureshi",
   title: "السلام عليكم ورحمته الله وبركاته",
-  subTitle: emoji(
-    "I create digital content, documenting my journey to inspire and help developers learn from my experience."
-  ),
+  subTitle:
+    "I create digital content, documenting my journey to inspire and help developers learn from my experience.",
   resumeLink:
     "https://drive.google.com/file/d/1nUSheWjNT0nB1G29qWr6rFYbaftXOBFM/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
