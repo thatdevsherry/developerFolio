@@ -189,7 +189,7 @@ const workExperiences = {
     },
     {
       role: "Senior Software Architect",
-      company: "Taleemabad - Project by Orenda",
+      company: "Taleemabad",
       color: "rgb(48,239,129)",
       date: "October 2021 – January 2022",
       desc: "",
