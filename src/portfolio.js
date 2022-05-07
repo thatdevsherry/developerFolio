@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Muhammad Shehriyar Qureshi",
+  username: "thatdevsherry",
   title: "السلام عليكم ورحمته الله وبركاته",
   subTitle: `I create digital content, 
     documenting my journey about being a Software Engineer in Pakistan 
