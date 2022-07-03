@@ -174,7 +174,12 @@ const workExperiences = {
       color: "rgb(27,196,132)",
       date: "April 2022 – Present",
       desc: "",
-      descBullets: []
+      descBullets: [
+        "Converted some of the legacy Node JavaScript projects to work with TypeScript",
+        "Involved in setting up Kuickpay integration",
+        "Rewrote loan calculation logic entirely in TypeScript",
+        "Involved in rearchitecting code in NestJS (Backend)"
+      ]
     },
     {
       role: "Full-Stack Software Engineer",
